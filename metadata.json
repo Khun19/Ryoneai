@@ -1,0 +1,6 @@
+{
+  "name": "R's AI",
+  "description": "R's AI - Myanmar's premium offline-first AI voice assistant with wake word, local feedback loop, and system action engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

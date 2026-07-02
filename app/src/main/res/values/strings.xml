@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">R\'s AI</string>
+    <string name="accessibility_service_description">Allows the assistant to view screen content, identify UI elements, and perform automatic touch interactions on your behalf.</string>
+</resources>
